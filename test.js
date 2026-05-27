@@ -4,6 +4,7 @@ function sayHi(name) {
 }
 
 sayHi("Daisy");
+sayHi("Kris");
 
 
 

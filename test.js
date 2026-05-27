@@ -1,6 +1,6 @@
 function sayHi(name) {
 
-    console.log("Hi there, + name ");
+    console.log("How are you, + name ");
 }
 
 sayHi("Daisy");
